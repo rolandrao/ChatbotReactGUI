@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.centered-form{
+  width: 60%;
+  margin:auto;
+  padding-top: 5%;
+}
+
+#responseField{
+  height: 300px;
+}
